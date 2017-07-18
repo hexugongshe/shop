@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <title>运动人生</title>
+    <link rel="stylesheet" type="text/css" href="http://wx.hexugongshe.com/MallProject/io/i/css/main.css"/>
+    <script src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://wx.hexugongshe.com/MallProject/io/i/js/jquery-1.12.2.js" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body>
+	<{include file="register.html"}>
+	
+	<p><{$pmsg[0]['product_id']}></p>
+	<p><{$pmsg[0]['product_name']}></p>
+	<p><{$pmsg[0]['product_price']}></p>
+	<img src="<{$pmsg[0]['product_image_url']}>"/>
+	
+	<button id="product-20000000"  class="nini"  onclick="purcharse(this)" style="height: 40px;width: 60px;">购买商品</button>
+	<hr />
+	<button id="address"  class="adressclassname"  onclick="addAddress()">显示已有地址</button>
+	<hr />
+   <button id="address"  class="adressclassname"  onclick="addAddress()">添加地址</button>
+   
+   
+   <{include file="address.html"}>
+   <script type="text/javascript">
+   		var purcharse = function(obj){
+//   		var id =obj.id; var className = obj.className;
+			var id = $(obj).attr('id');
+			var addressid = 2;
+			var strs= new Array(); //定义一数组 
+			strs=id.split("-");
+			id = strs[1];
+			alert(id);
+			var purl = "<{url c="order" a="createorder"}>"; 
+			console.log(purl);
+			alert(purl);
+			
+			$.ajax({
+				type:"post",
+				url:purl,
+				async:false,
+				dataType:'json',
+				data:{"openid":"<{$openid}>" ,"productid":id,"amount":1,"addressid":addressid},
+				success:function(data){
+							console.log(data);
+							console.log(data.payurl);
+							alert(data.payurl);
+							window.location.href = String(data.payurl);
+					},
+				error:function(){
+					alert("Error");
+				},
+				
+			});
+		}
+   		
+   		var addAddress = function(){
+   			
+   		}
+   		
+   </script>
+   
+   
+   
+   
+   
+   
+   
+    
+<script type="text/javascript">
+	wx.config({
+	debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+	appId: "<{$shareDate.appid}>", // 必填，公众号的唯一标识
+	timestamp: "<{$shareDate.timestamp}>", // 必填，生成签名的时间戳
+	nonceStr: "<{$shareDate.nonceStr}>", // 必填，生成签名的随机串
+	signature: "<{$shareDate.signature}>", // 必填，签名，见附录1
+	jsApiList: ["onMenuShareTimeline", "onMenuShareAppMessage", "onMenuShareQQ", "onMenuShareWeibo", "onMenuShareQZone", "chooseImage", "previewImage", "previewImage", "uploadImage", "downloadImage"] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+});
+
+
+
+
+wx.ready(function() {
+
+	// config信息验证后会执行ready方法，所有接口调用都必须在config接口获得结果之后，config是一个客户端的异步操作，所以如果需要在页面加载时就调用相关接口，则须把相关接口放在ready函数中调用来确保正确执行。对于用户触发时才调用的接口，则可以直接调用，不需要放在ready函数中。
+	wx.onMenuShareTimeline({
+		title: '运动人生', // 分享标题
+		link: 'http://wx.hexugongshe.com/MallProject/api/authorize.php', // 分享链接
+		imgUrl: 'http://pic27.nipic.com/20130323/12013739_171719485183_2.gif', // 分享图标
+		success: function() {
+			// 用户确认分享后执行的回调函数
+			//			console.log("nihao");
+		},
+		cancel: function() {
+			// 用户取消分享后执行的回调函数
+			//			console.log("取消");
+		}
+	});
+	wx.onMenuShareAppMessage({
+		title: '运动人生', // 分享标题
+		desc: '绽放亚洲青春之美,谱写中华丝路传奇', // 分享描述
+		link: 'http://wx.hexugongshe.com/MallProject/api/authorize.php', // 分享链接
+		imgUrl: 'http://pic27.nipic.com/20130323/12013739_171719485183_2.gif', // 分享图标
+		type: 'link', // 分享类型,music、video或link，不填默认为link
+		dataUrl: '', // 如果type是music或video，则要提供数据链接，默认为空
+		success: function() {
+			// 用户确认分享后执行的回调函数
+		},
+		cancel: function() {
+			// 用户取消分享后执行的回调函数
+		}
+	});
+	wx.onMenuShareQQ({
+		title: '运动人生', // 分享标题
+		desc: '绽放亚洲青春之美,谱写中华丝路传奇', // 分享描述
+		link: 'http://wx.hexugongshe.com/MallProject/api/authorize.php', // 分享链接
+		imgUrl: 'http://pic27.nipic.com/20130323/12013739_171719485183_2.gif', // 分享图标
+		success: function() {
+			// 用户确认分享后执行的回调函数
+		},
+		cancel: function() {
+			// 用户取消分享后执行的回调函数
+		}
+	});
+	wx.onMenuShareWeibo({
+		title: '运动人生', // 分享标题
+		desc: '绽放亚洲青春之美,谱写中华丝路传奇', // 分享描述
+		link: 'http://wx.hexugongshe.com/MallProject/api/authorize.php', // 分享链接
+		imgUrl: 'http://pic27.nipic.com/20130323/12013739_171719485183_2.gif', // 分享图标
+		success: function() {
+			// 用户确认分享后执行的回调函数
+		},
+		cancel: function() {
+			// 用户取消分享后执行的回调函数
+		}
+	});
+	wx.onMenuShareQZone({
+		title: '运动人生', // 分享标题
+		desc: '绽放亚洲青春之美,谱写中华丝路传奇', // 分享描述
+		link: 'http://wx.hexugongshe.com/MallProject/api/authorize.php', // 分享链接
+		imgUrl: 'http://pic27.nipic.com/20130323/12013739_171719485183_2.gif', // 分享图标
+		success: function() {
+			// 用户确认分享后执行的回调函数
+		},
+		cancel: function() {
+			// 用户取消分享后执行的回调函数
+		}
+	});
+});
+</script>
+
+
+</body>
+
+</html>

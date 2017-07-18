@@ -1,0 +1,71 @@
+
+<label for="">name</label><input type="text" name="name" id="name" value="吴春茂" />
+<br />
+<label for="">phone</label><input type="tel" name="phone" id="phone" value="13802540915" />
+<br />
+
+<label for="">province</label><input type="text" name="province" id="province" value="广东省" />
+<br />
+
+<label for="">city</label><input type="text" name="city" id="city" value="广州市" />
+<br />
+
+<label for="">street</label><input type="text" name="street" id="street" value="天河区" />
+<br />
+
+<label for="">country</label><input type="text" name="country" id="country" value="中国" />
+<br />
+
+<label for="">详细信息</label><input type="text" name="detial" id="detail" value="天河北路99号"/>
+<br />
+
+<label for="">邮编</label><input type="text" name="postcode" id="postcode" value="663100" />
+<br />
+<button id="addressSub">提交</button>
+
+
+<script type="text/javascript">
+	$("#addressSub").click(function(){
+		var addUrl =  "<{url c="address" a="addaddress"}>";
+//		var adddata = {
+//			"add_detail":$('#detail').val(),
+//			"add_province":$('#province').val(),
+//			"add_city":$('#city').val(),
+//			"add_country":$('#country').val(),
+//			"add_street":$('#street').val(),
+//			"add_user":$('#name').val(),
+//			"add_postcode":$('#postcode').val(),
+//			"add_telephone":$('#phone').val()
+//		};
+		
+		$.ajax({
+			url:addUrl,
+			async:false,
+			dataType:'json',
+			data:{
+				"add_detail":$('#detail').val(),
+				"add_province":$('#province').val(),
+				"add_city":$('#city').val(),
+				"add_country":$('#country').val(),
+				"add_street":$('#street').val(),
+				"add_user":$('#name').val(),
+				"add_postcode":$('#postcode').val(),
+				"add_telephone":$('#phone').val()
+			},
+			success:function(data){
+				console.log(data);
+			},
+			error:function(){
+				console.log('error');
+			},
+			complete:function(){
+				console.log('complete');
+			}
+		});
+		
+//		$.getJSON(addUrl,adddata,function(data){
+////			alert(data);
+//			console.log(data);
+//		});
+	});
+</script>

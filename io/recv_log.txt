@@ -1,0 +1,967 @@
+2017-06-29 17:19:59
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:19:59
+create_order order price:168 total_fee:168
+2017-06-29 17:20:50
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:20:50
+create_order order price:168 total_fee:168
+2017-06-29 17:21:23
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:21:23
+create_order order price:168 total_fee:168
+2017-06-29 17:21:25
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:21:25
+create_order order price:168 total_fee:168
+2017-06-29 17:21:25
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:21:25
+create_order order price:168 total_fee:168
+2017-06-29 17:21:47
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:21:47
+create_order order price:168 total_fee:168
+2017-06-29 17:23:50
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:23:50
+create_order order price:168 total_fee:168
+2017-06-29 17:24:37
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:24:37
+create_order order price:168 total_fee:168
+2017-06-29 17:24:47
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:24:47
+create_order order price:168 total_fee:168
+2017-06-29 17:39:16
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-06-29 17:39:16
+create_order order price:168 total_fee:168
+2017-07-03 15:10:48
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-07-03 15:10:48
+create_order order price:168 total_fee:168
+2017-07-03 16:48:12
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071692,"nonceStr":"1499071692wx0776","signature":"8499aac1ccef4fcb630018f5dd5cfc7af9dcc365","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:48:38
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071718,"nonceStr":"1499071718wx0776","signature":"feccde15b61ebda6f9a5dfbe29745230ea4187e0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:48:49
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071729,"nonceStr":"1499071729wx0776","signature":"f7b757d5320fba99b1213270c0a1e66090a4e6c3","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:48:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071730,"nonceStr":"1499071730wx0776","signature":"1687e534aa7e27473653017d1b03073732ba8cfb","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:48:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071731,"nonceStr":"1499071731wx0776","signature":"baaa2cde1858ea0249b2c27e4bc642d9c2721bc2","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:48:52
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071732,"nonceStr":"1499071732wx0776","signature":"3f9727981e6b32619b96f293bd1399f5aef00ccd","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:48:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071733,"nonceStr":"1499071733wx0776","signature":"a72bf174c1ddf0c9d8128419990694fdba4a8eab","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:06
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071746,"nonceStr":"1499071746wx0776","signature":"225e93e2ab533c1c7bb2b44140cac6ce94071efe","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:06
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071746,"nonceStr":"1499071746wx0776","signature":"225e93e2ab533c1c7bb2b44140cac6ce94071efe","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:07
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071747,"nonceStr":"1499071747wx0776","signature":"c87f97b8c7f2f9a4b3cf432c271d3c168386b2bd","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:09
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071749,"nonceStr":"1499071749wx0776","signature":"d7debbc6cf2e56370a11daf0979586d83093b564","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:13
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071753,"nonceStr":"1499071753wx0776","signature":"a37317feacd073b94a5dc418ff03c28d9f64a14e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:14
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071754,"nonceStr":"1499071754wx0776","signature":"6db9756091a5341a4be9934be87baee1838d6dfb","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:15
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071755,"nonceStr":"1499071755wx0776","signature":"df1dd1e3749b580855c72e0981741adf8fda68de","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:16
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071756,"nonceStr":"1499071756wx0776","signature":"0c61cf7f4bd4143c007fb90c7c43580876c82477","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:16
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071756,"nonceStr":"1499071756wx0776","signature":"0c61cf7f4bd4143c007fb90c7c43580876c82477","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:17
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071757,"nonceStr":"1499071757wx0776","signature":"54b1b90245812765a575047918fa9b8f152c50cb","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:17
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071757,"nonceStr":"1499071757wx0776","signature":"54b1b90245812765a575047918fa9b8f152c50cb","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071758,"nonceStr":"1499071758wx0776","signature":"b941a862f21de10ce0bc3163f01590931a10ec60","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071758,"nonceStr":"1499071758wx0776","signature":"b941a862f21de10ce0bc3163f01590931a10ec60","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071758,"nonceStr":"1499071758wx0776","signature":"b941a862f21de10ce0bc3163f01590931a10ec60","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:40
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071780,"nonceStr":"1499071780wx0776","signature":"f94168c205a006b07081d9372f04738824e4cd6a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:43
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071783,"nonceStr":"1499071783wx0776","signature":"afc3a1a2907b30cd8e5a9719f81bf707fa4801c6","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071793,"nonceStr":"1499071793wx0776","signature":"c450c0e5aefc29c59db104c1039bd6d4a2fa0b26","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071793,"nonceStr":"1499071793wx0776","signature":"c450c0e5aefc29c59db104c1039bd6d4a2fa0b26","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:54
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071794,"nonceStr":"1499071794wx0776","signature":"8b38e32f431f4abe1bea7bc6d48405eef52fa022","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:54
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071794,"nonceStr":"1499071794wx0776","signature":"8b38e32f431f4abe1bea7bc6d48405eef52fa022","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:55
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071795,"nonceStr":"1499071795wx0776","signature":"1b69df99052c0ce2cc54ce025147e356a6301ac0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:55
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071795,"nonceStr":"1499071795wx0776","signature":"1b69df99052c0ce2cc54ce025147e356a6301ac0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:56
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071796,"nonceStr":"1499071796wx0776","signature":"bd82fc50da651ca50b7852abd30d848fa26ddfef","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:56
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071796,"nonceStr":"1499071796wx0776","signature":"bd82fc50da651ca50b7852abd30d848fa26ddfef","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:57
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071797,"nonceStr":"1499071797wx0776","signature":"a1a973200ffdae4424cd946a374cbb9c57ce8bfc","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:58
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071798,"nonceStr":"1499071798wx0776","signature":"1ed661be5857b0a423cadd4b17a543942a6141e0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:58
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071798,"nonceStr":"1499071798wx0776","signature":"1ed661be5857b0a423cadd4b17a543942a6141e0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:59
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071799,"nonceStr":"1499071799wx0776","signature":"af69ba79fae683476ea9de7bca29195fa96ab5f5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:59
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071799,"nonceStr":"1499071799wx0776","signature":"af69ba79fae683476ea9de7bca29195fa96ab5f5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:59
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071799,"nonceStr":"1499071799wx0776","signature":"af69ba79fae683476ea9de7bca29195fa96ab5f5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:49:59
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071799,"nonceStr":"1499071799wx0776","signature":"af69ba79fae683476ea9de7bca29195fa96ab5f5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:50:00
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071800,"nonceStr":"1499071800wx0776","signature":"cca0e1ed82eebae4c2bec047af0554f500f03b74","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:50:00
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071800,"nonceStr":"1499071800wx0776","signature":"cca0e1ed82eebae4c2bec047af0554f500f03b74","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:50:38
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499071838,"nonceStr":"1499071838wx0776","signature":"f966075cecf1b503553517295f60df21127f088c","link":"http:\/\/localhost\/MallProject\/io\/?openid=oyO9av58HrT-IaxEzwGQSnCi0gPY","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":"oyO9av58HrT-IaxEzwGQSnCi0gPY","url":"http:\/\/localhost\/MallProject\/io\/?openid=oyO9av58HrT-IaxEzwGQSnCi0gPY"}
+
+2017-07-03 16:50:41
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-07-03 16:50:41
+create_order order price:168 total_fee:168
+2017-07-03 16:56:20
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072180,"nonceStr":"1499072180wx0776","signature":"415d69a684dc46fb3f3aad5f2e5186054e917348","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 16:56:48
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072208,"nonceStr":"1499072208wx0776","signature":"756faf9544a5b09166f478dc40d4ee3baa9e5497","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:00:08
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072408,"nonceStr":"1499072408wx0776","signature":"264f5dddf738bdbfedcab6a39d82b7b186e94728","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:00:09
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072409,"nonceStr":"1499072409wx0776","signature":"7a4d8cb449a7fa425291f5e6e6790a522b71d43e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:00:09
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072409,"nonceStr":"1499072409wx0776","signature":"7a4d8cb449a7fa425291f5e6e6790a522b71d43e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:00:10
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072410,"nonceStr":"1499072410wx0776","signature":"185cde67bef7335f3c48fea9d2da359a5a5ad4af","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:00:10
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072410,"nonceStr":"1499072410wx0776","signature":"185cde67bef7335f3c48fea9d2da359a5a5ad4af","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:00:11
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072411,"nonceStr":"1499072411wx0776","signature":"b8ec1f327276d9980fae26da989ca80336669cf3","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:00:12
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072412,"nonceStr":"1499072412wx0776","signature":"641f28e21207853f73d2e2230d0514febdceecd0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:00:12
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072412,"nonceStr":"1499072412wx0776","signature":"641f28e21207853f73d2e2230d0514febdceecd0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:02:48
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072568,"nonceStr":"1499072568wx0776","signature":"a6130d74ef769ebc496ffec8c78f9d1f3b0c959a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:02:49
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072569,"nonceStr":"1499072569wx0776","signature":"6d2419c163d7fbcb8a8b44728d4a451b863d12b6","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:02:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072570,"nonceStr":"1499072570wx0776","signature":"5b40a9e22bff946c03d56f59c5a9b01ad701f68e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:02:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072571,"nonceStr":"1499072571wx0776","signature":"4dfbe6c87cfd303506b863c3edfd4b0f733bd4c2","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:02:52
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072572,"nonceStr":"1499072572wx0776","signature":"96a7dd75780e45069ecf4a5b72710ab19e53ae90","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:02:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072573,"nonceStr":"1499072573wx0776","signature":"bc588a7dc7bd916557498616dcfa374b78ed303c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:02:54
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072574,"nonceStr":"1499072574wx0776","signature":"3879515befb3422b0da977bc8a876e4a5aa9c2f9","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:03:14
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072594,"nonceStr":"1499072594wx0776","signature":"f752422059d30c5fdad1bb282ee834a4f0a6a761","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:03:17
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499072597,"nonceStr":"1499072597wx0776","signature":"45dc7aef5e3f7d0ad543ba633a3f1ae138f1845e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073231,"nonceStr":"1499073231wx0776","signature":"94f0c5d78371a3b30535859649408b358cdae752","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073233,"nonceStr":"1499073233wx0776","signature":"ff7abcb41b959e98c48bc6e29ac3d0bf3d611011","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:54
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073234,"nonceStr":"1499073234wx0776","signature":"7943f4bdeb5b66867e14e2f42ec93d6be1697395","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:55
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073235,"nonceStr":"1499073235wx0776","signature":"22bc810283c18bc31c9a1957824e703465b014df","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:55
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073235,"nonceStr":"1499073235wx0776","signature":"22bc810283c18bc31c9a1957824e703465b014df","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:55
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073235,"nonceStr":"1499073235wx0776","signature":"22bc810283c18bc31c9a1957824e703465b014df","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:55
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073235,"nonceStr":"1499073235wx0776","signature":"22bc810283c18bc31c9a1957824e703465b014df","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:55
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073235,"nonceStr":"1499073235wx0776","signature":"22bc810283c18bc31c9a1957824e703465b014df","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:56
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073236,"nonceStr":"1499073236wx0776","signature":"74ca03a0e92662173d57a661f95ad5e834d9d8e5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:56
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073236,"nonceStr":"1499073236wx0776","signature":"74ca03a0e92662173d57a661f95ad5e834d9d8e5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:56
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073236,"nonceStr":"1499073236wx0776","signature":"74ca03a0e92662173d57a661f95ad5e834d9d8e5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:56
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073236,"nonceStr":"1499073236wx0776","signature":"74ca03a0e92662173d57a661f95ad5e834d9d8e5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:56
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073236,"nonceStr":"1499073236wx0776","signature":"74ca03a0e92662173d57a661f95ad5e834d9d8e5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:57
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073237,"nonceStr":"1499073237wx0776","signature":"fd7e60e7e6fee4228d929f416439bc56d1d21f2e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:57
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073237,"nonceStr":"1499073237wx0776","signature":"fd7e60e7e6fee4228d929f416439bc56d1d21f2e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:57
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073237,"nonceStr":"1499073237wx0776","signature":"fd7e60e7e6fee4228d929f416439bc56d1d21f2e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:57
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073237,"nonceStr":"1499073237wx0776","signature":"fd7e60e7e6fee4228d929f416439bc56d1d21f2e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:57
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073237,"nonceStr":"1499073237wx0776","signature":"fd7e60e7e6fee4228d929f416439bc56d1d21f2e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:58
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073238,"nonceStr":"1499073238wx0776","signature":"aab39a7e31cec4ce7c42a80290cb4d4cd00b6c82","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:58
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073238,"nonceStr":"1499073238wx0776","signature":"aab39a7e31cec4ce7c42a80290cb4d4cd00b6c82","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:58
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073238,"nonceStr":"1499073238wx0776","signature":"aab39a7e31cec4ce7c42a80290cb4d4cd00b6c82","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:58
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073238,"nonceStr":"1499073238wx0776","signature":"aab39a7e31cec4ce7c42a80290cb4d4cd00b6c82","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:58
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073238,"nonceStr":"1499073238wx0776","signature":"aab39a7e31cec4ce7c42a80290cb4d4cd00b6c82","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:58
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073238,"nonceStr":"1499073238wx0776","signature":"aab39a7e31cec4ce7c42a80290cb4d4cd00b6c82","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:59
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073239,"nonceStr":"1499073239wx0776","signature":"a006befb659fdfc926ff4b53df5b2bdecdbeb745","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:59
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073239,"nonceStr":"1499073239wx0776","signature":"a006befb659fdfc926ff4b53df5b2bdecdbeb745","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:59
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073239,"nonceStr":"1499073239wx0776","signature":"a006befb659fdfc926ff4b53df5b2bdecdbeb745","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:13:59
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073239,"nonceStr":"1499073239wx0776","signature":"a006befb659fdfc926ff4b53df5b2bdecdbeb745","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-03 17:20:33
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499073633,"nonceStr":"1499073633wx0776","signature":"1a2bb6764fd0bea1e6888dcc025fb268b5dcf4d3","link":"http:\/\/localhost\/MallProject\/io\/?openid=oyO9av58HrT-IaxEzwGQSnCi0gPY","token":"a6o7eYs8KjtazUT_uVKOthMbAKO7bIpn2jvz7hvJnuxmBQM8j-ECX9Hnv2BuLuJ9HWGKK-RbTZNif0jzlqcQXjNgIkF-zIM_X65U1nv878zTKMxOVWdna36QXJeqzEzCSPYaAFAIFO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLAqiyRSYl0JQxNzuGKsCvWsPU7_XUV2vsfRVqExrx_uw","openid":"oyO9av58HrT-IaxEzwGQSnCi0gPY","url":"http:\/\/localhost\/MallProject\/io\/?openid=oyO9av58HrT-IaxEzwGQSnCi0gPY"}
+
+2017-07-03 17:20:41
+create_order check_perm_exchange true openid:oyO9av58HrT-IaxEzwGQSnCi0gPY
+2017-07-03 17:20:41
+create_order order price:168 total_fee:168
+2017-07-04 10:32:41
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499135561,"nonceStr":"1499135561wx0776","signature":"50e062a81c83b6dfc8bc824f7d4b41937d20f1ab","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:27:29
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499138849,"nonceStr":"1499138849wx0776","signature":"1e7d40f60935f97808746aede168eb7fce784621","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:28:26
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499138906,"nonceStr":"1499138906wx0776","signature":"d78ceb2b90fc62edddccf32873c965b34858e444","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:29:17
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499138957,"nonceStr":"1499138957wx0776","signature":"0ea23280bbb098a259bcf2c9a416ec17d75a05f0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:29:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499138993,"nonceStr":"1499138993wx0776","signature":"8be06a6639d3384dfa0ab2d8516bb5b91d5cdbdb","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:31:48
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139108,"nonceStr":"1499139108wx0776","signature":"84b99dba7e617bf4274e809306f7241bcf9fe065","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:32:19
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139139,"nonceStr":"1499139139wx0776","signature":"adb480a7d80a7a1bbab7b188fe2920b25c21f1a9","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:35:28
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139328,"nonceStr":"1499139328wx0776","signature":"f844c64138cd5f52da62aaa8480345e1cbc6ac3b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:35:46
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139346,"nonceStr":"1499139346wx0776","signature":"82acc871d3c83e2be58f87635fb908aa0ecc4fcb","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:35:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139350,"nonceStr":"1499139350wx0776","signature":"10947657960a19db8d442fd8365dcba7ed933939","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:35:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139351,"nonceStr":"1499139351wx0776","signature":"7a713c4fef00ef15a76b03a5a18c1876f4cef15d","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:35:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139351,"nonceStr":"1499139351wx0776","signature":"7a713c4fef00ef15a76b03a5a18c1876f4cef15d","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:35:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139351,"nonceStr":"1499139351wx0776","signature":"7a713c4fef00ef15a76b03a5a18c1876f4cef15d","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:36:11
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139371,"nonceStr":"1499139371wx0776","signature":"028413574038b13e38423fa130127c3b6b08e8cf","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:36:12
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139372,"nonceStr":"1499139372wx0776","signature":"0b7ba4572f4e7eea89c3ba28f804a6e806aad95a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:36:12
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139372,"nonceStr":"1499139372wx0776","signature":"0b7ba4572f4e7eea89c3ba28f804a6e806aad95a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:36:22
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139382,"nonceStr":"1499139382wx0776","signature":"26629313e7a19d67f224c6c31b6ee041df78adaa","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:36:24
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139384,"nonceStr":"1499139384wx0776","signature":"9241310e07e3df91e55966bf42edccbf31e893a0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:36:35
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139395,"nonceStr":"1499139395wx0776","signature":"78ac68e5b21a1a37a6e0b2dd2a0df09a6f15d71c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:36:43
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139403,"nonceStr":"1499139403wx0776","signature":"b6fe9423ffd0faa4832dae2bea628a4eab4f9421","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:36:58
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139418,"nonceStr":"1499139418wx0776","signature":"bdd3e64b72512cec9d6d7d5f8ac73bc5d342daa7","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:37:20
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139440,"nonceStr":"1499139440wx0776","signature":"e22cd2efd3dca2e4725fd8459057fc8dc3ba088e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:37:20
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139440,"nonceStr":"1499139440wx0776","signature":"e22cd2efd3dca2e4725fd8459057fc8dc3ba088e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:37:20
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139440,"nonceStr":"1499139440wx0776","signature":"e22cd2efd3dca2e4725fd8459057fc8dc3ba088e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:37:47
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139467,"nonceStr":"1499139467wx0776","signature":"d88a70595f131600b7721c00794f0054fcd4e224","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:37:57
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139477,"nonceStr":"1499139477wx0776","signature":"331c16a94d791caa6ce4da7bf0e0ed960b23102b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:38:57
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139537,"nonceStr":"1499139537wx0776","signature":"f155afa5c5433d8b893d2ef7557e26c674a7a6e4","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:39:47
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139587,"nonceStr":"1499139587wx0776","signature":"765f256a7e7c9dc05ed427a4ef42638601f97245","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:42:43
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139763,"nonceStr":"1499139763wx0776","signature":"eccf90c931a1df21c17107f516133017762746da","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-04 11:44:45
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499139885,"nonceStr":"1499139885wx0776","signature":"566f40bc05501f2c343f259dab6a75a64718bb61","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"D9BjOPx_inqfmNG4mKittkZbUPVvUzzdzaKqluezk35pVn4xcRVQWGI98oLX4P_LeeqYgVqFK_0h3zeRvQIta2C2H7fCiPhI-BT1zOekvp2wqDv3Wu3Wa04nAXvXtJJhLATgAHAGVO","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLqMlfOb2fN17pHmepqNNyqz8M6uJjENrl5GtgRfceY7g","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:00:32
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499824831,"nonceStr":"1499824831wx0776","signature":"36a1a028da5a3de19d392fe18642e5353c51d821","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:01:26
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499824886,"nonceStr":"1499824886wx0776","signature":"1f6bae9d3493e4e5144a90581e0972f2216d0988","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:37:03
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827023,"nonceStr":"1499827023wx0776","signature":"869421d5682cc52b1a56d1871359804f7d318663","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:37:33
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827053,"nonceStr":"1499827053wx0776","signature":"696cc712bbc2e0bae24331ed7f1c3627c2f74e5d","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:38:10
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827090,"nonceStr":"1499827090wx0776","signature":"3554a670ae9763297017ca8749cc46fb0a88df30","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:38:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827098,"nonceStr":"1499827098wx0776","signature":"0cf355e825eb6e17bc2248f88c68cb90df8cb3c4","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:39:02
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827142,"nonceStr":"1499827142wx0776","signature":"ecc01f40b2177073a9084501e0dd59d211aeb9da","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:39:03
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827143,"nonceStr":"1499827143wx0776","signature":"9bb46a79f72cf073bdfbb9ad4aa65ef49808eb79","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:39:04
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827144,"nonceStr":"1499827144wx0776","signature":"389cb2fed8846b706217533115a2dffc3ea7e2e3","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:39:10
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827150,"nonceStr":"1499827150wx0776","signature":"387e98e025cccf890f4fd8d696c685006917187b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:39:11
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827151,"nonceStr":"1499827151wx0776","signature":"abbb6bb6223b76be14fc7de2eb490f587f9dd701","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:39:36
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827176,"nonceStr":"1499827176wx0776","signature":"74bc348f95fbe5e54e5b61362c743d6a6a594acc","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:39:41
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827181,"nonceStr":"1499827181wx0776","signature":"5b3fe5f45eb667a21ca004eb8edec9104044f297","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:40:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827234,"nonceStr":"1499827234wx0776","signature":"ce1def70d6d850be8573324bed1e5ea8b9d77ee9","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:40:35
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827235,"nonceStr":"1499827235wx0776","signature":"5b0e7e0f6d8624c0897ebcfb61c2a2b7ecb56457","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:40:36
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827236,"nonceStr":"1499827236wx0776","signature":"fa0ffa96f42c38780cef516f72e8d02b7d661c50","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:41:39
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827299,"nonceStr":"1499827299wx0776","signature":"abdaeec8ecb536ccfbac5b3a3a463ffe6eaea503","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:45:23
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827523,"nonceStr":"1499827523wx0776","signature":"475d2d5b591167c154c442036c1c4b6d19a1888a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:45:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827553,"nonceStr":"1499827553wx0776","signature":"8fb437225e40e17a90dcf96a9936702d82d24aa4","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:45:54
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827554,"nonceStr":"1499827554wx0776","signature":"21949f8d9ef1e1cdd3b5c964a1c48db055b1d012","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:46:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827613,"nonceStr":"1499827613wx0776","signature":"4b0e61d4b74e6e874e0be9248382c62b09d2008a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:46:55
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827615,"nonceStr":"1499827615wx0776","signature":"ae9326350b5827466ead4fdb0ccede0c76ed2423","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:49:33
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827773,"nonceStr":"1499827773wx0776","signature":"c76175feeae2fc896198b25626c746cfc5c2f15a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:49:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499827774,"nonceStr":"1499827774wx0776","signature":"545571c57b32a7af45266a7f35cc794b43d2e640","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:54:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828074,"nonceStr":"1499828074wx0776","signature":"f9706a48ff13cdd6285ed3b94fb96cbd86482218","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:54:35
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828075,"nonceStr":"1499828075wx0776","signature":"bc45dc1922ad43e96f22755fb64b61e82aa434d6","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:56:52
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828212,"nonceStr":"1499828212wx0776","signature":"e81e1addeeceb5d44bce9c3f61873fd10bead511","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:56:52
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828212,"nonceStr":"1499828212wx0776","signature":"e81e1addeeceb5d44bce9c3f61873fd10bead511","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:56:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828213,"nonceStr":"1499828213wx0776","signature":"ca2cfe2b4854b67cc0c184d16df2e194a04702ac","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:56:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828213,"nonceStr":"1499828213wx0776","signature":"ca2cfe2b4854b67cc0c184d16df2e194a04702ac","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:56:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828213,"nonceStr":"1499828213wx0776","signature":"ca2cfe2b4854b67cc0c184d16df2e194a04702ac","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 10:57:09
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828229,"nonceStr":"1499828229wx0776","signature":"6ba38635adebc82139b59ae7bfa2a4b6ebd04010","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:01:37
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828497,"nonceStr":"1499828497wx0776","signature":"1f6858a60e177be81d0518ceeace8a8d3720570c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:33
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828613,"nonceStr":"1499828613wx0776","signature":"8ccb9b45578f4c4ac33f200ad155b1dc0c00a597","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828614,"nonceStr":"1499828614wx0776","signature":"79ee48e53e688e140c02bc593cc45490f335e254","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828614,"nonceStr":"1499828614wx0776","signature":"79ee48e53e688e140c02bc593cc45490f335e254","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:35
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828615,"nonceStr":"1499828615wx0776","signature":"f760937c59d88eadae7f8836a39c06430c579424","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:35
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828615,"nonceStr":"1499828615wx0776","signature":"f760937c59d88eadae7f8836a39c06430c579424","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:35
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828615,"nonceStr":"1499828615wx0776","signature":"f760937c59d88eadae7f8836a39c06430c579424","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:35
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828615,"nonceStr":"1499828615wx0776","signature":"f760937c59d88eadae7f8836a39c06430c579424","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:35
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828615,"nonceStr":"1499828615wx0776","signature":"f760937c59d88eadae7f8836a39c06430c579424","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:39
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828619,"nonceStr":"1499828619wx0776","signature":"6c9dc4c2ddbc5c1643fa42b4e27c84f1fc88cbd1","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:40
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828620,"nonceStr":"1499828620wx0776","signature":"2f9be2128662d6012980c4d7dd4f0de6cc55cb65","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:40
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828620,"nonceStr":"1499828620wx0776","signature":"2f9be2128662d6012980c4d7dd4f0de6cc55cb65","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:40
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828620,"nonceStr":"1499828620wx0776","signature":"2f9be2128662d6012980c4d7dd4f0de6cc55cb65","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:41
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828621,"nonceStr":"1499828621wx0776","signature":"4aa14c1eae4859f4eca9e88b64e1811b4367280a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:41
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828621,"nonceStr":"1499828621wx0776","signature":"4aa14c1eae4859f4eca9e88b64e1811b4367280a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:41
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828621,"nonceStr":"1499828621wx0776","signature":"4aa14c1eae4859f4eca9e88b64e1811b4367280a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:41
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828621,"nonceStr":"1499828621wx0776","signature":"4aa14c1eae4859f4eca9e88b64e1811b4367280a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:41
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828621,"nonceStr":"1499828621wx0776","signature":"4aa14c1eae4859f4eca9e88b64e1811b4367280a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:42
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828622,"nonceStr":"1499828622wx0776","signature":"688418471f7f5ca2d6198a9582f8287432144f79","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:42
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828622,"nonceStr":"1499828622wx0776","signature":"688418471f7f5ca2d6198a9582f8287432144f79","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:42
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828622,"nonceStr":"1499828622wx0776","signature":"688418471f7f5ca2d6198a9582f8287432144f79","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:42
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828622,"nonceStr":"1499828622wx0776","signature":"688418471f7f5ca2d6198a9582f8287432144f79","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:43
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828623,"nonceStr":"1499828623wx0776","signature":"15c1115d21aafc66a73dcfa9ab5013f927bae430","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:03:43
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828623,"nonceStr":"1499828623wx0776","signature":"15c1115d21aafc66a73dcfa9ab5013f927bae430","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:08:13
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828893,"nonceStr":"1499828893wx0776","signature":"09578d37d41fe4f237a394ac7a81c67e9936977c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:33
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828973,"nonceStr":"1499828973wx0776","signature":"b98cce7bb77d98b73fed05667774c1c9ae6e2b79","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828974,"nonceStr":"1499828974wx0776","signature":"45615348d3f1fe9891c6cd2f91037e61b0a5d676","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828974,"nonceStr":"1499828974wx0776","signature":"45615348d3f1fe9891c6cd2f91037e61b0a5d676","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828974,"nonceStr":"1499828974wx0776","signature":"45615348d3f1fe9891c6cd2f91037e61b0a5d676","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828974,"nonceStr":"1499828974wx0776","signature":"45615348d3f1fe9891c6cd2f91037e61b0a5d676","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828974,"nonceStr":"1499828974wx0776","signature":"45615348d3f1fe9891c6cd2f91037e61b0a5d676","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828974,"nonceStr":"1499828974wx0776","signature":"45615348d3f1fe9891c6cd2f91037e61b0a5d676","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:35
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828975,"nonceStr":"1499828975wx0776","signature":"ea8956283a4ab1ac3371cf63ffdbf96c3f16b9fb","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:36
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828976,"nonceStr":"1499828976wx0776","signature":"08615840e6c7001409f1347235d43d999dd98a94","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:36
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828976,"nonceStr":"1499828976wx0776","signature":"08615840e6c7001409f1347235d43d999dd98a94","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:36
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828976,"nonceStr":"1499828976wx0776","signature":"08615840e6c7001409f1347235d43d999dd98a94","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:36
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828976,"nonceStr":"1499828976wx0776","signature":"08615840e6c7001409f1347235d43d999dd98a94","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:36
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828976,"nonceStr":"1499828976wx0776","signature":"08615840e6c7001409f1347235d43d999dd98a94","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:37
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828977,"nonceStr":"1499828977wx0776","signature":"6d57d4fbb468b8d89cb88746366f096a62d8c94a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:37
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828977,"nonceStr":"1499828977wx0776","signature":"6d57d4fbb468b8d89cb88746366f096a62d8c94a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:37
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828977,"nonceStr":"1499828977wx0776","signature":"6d57d4fbb468b8d89cb88746366f096a62d8c94a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:37
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828977,"nonceStr":"1499828977wx0776","signature":"6d57d4fbb468b8d89cb88746366f096a62d8c94a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:37
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828977,"nonceStr":"1499828977wx0776","signature":"6d57d4fbb468b8d89cb88746366f096a62d8c94a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:38
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828978,"nonceStr":"1499828978wx0776","signature":"92deb3404fbfa0c7159d257db1dd42dbdd7fccff","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:09:38
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499828978,"nonceStr":"1499828978wx0776","signature":"92deb3404fbfa0c7159d257db1dd42dbdd7fccff","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:11:59
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829119,"nonceStr":"1499829119wx0776","signature":"51dd7eeeadcc6645a385c2bf9ae5a3ab1fbe0499","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:12:00
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829120,"nonceStr":"1499829120wx0776","signature":"1540b1be8d3fd3f84e09b444b23156259cb33fae","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:12:00
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829120,"nonceStr":"1499829120wx0776","signature":"1540b1be8d3fd3f84e09b444b23156259cb33fae","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:15:21
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829321,"nonceStr":"1499829321wx0776","signature":"e52f65ab815b6d80d7d65762a88acf1be3501c01","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:15:21
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829321,"nonceStr":"1499829321wx0776","signature":"e52f65ab815b6d80d7d65762a88acf1be3501c01","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:15:22
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829322,"nonceStr":"1499829322wx0776","signature":"29fc27ee194cc49ba88e3146be2c8582b8139125","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:17:37
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829457,"nonceStr":"1499829457wx0776","signature":"a1589d90b608d738a4a931978cf9b3e3fdada80f","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:17:38
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829458,"nonceStr":"1499829458wx0776","signature":"b6fc6ebd7d338031e8787cfe4cf5ddfe8064e400","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:17:39
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829459,"nonceStr":"1499829459wx0776","signature":"b7d0905842cb340dd6179648fe75472fcdd0a4c2","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:17:39
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829459,"nonceStr":"1499829459wx0776","signature":"b7d0905842cb340dd6179648fe75472fcdd0a4c2","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:17:40
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829460,"nonceStr":"1499829460wx0776","signature":"89f7bd9d5431fb99dc3d4a5952db351fb82c6c7b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:17:41
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829461,"nonceStr":"1499829461wx0776","signature":"1d8a0abebd6cd97eea9171166b7d39a90302da1b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:17:41
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829461,"nonceStr":"1499829461wx0776","signature":"1d8a0abebd6cd97eea9171166b7d39a90302da1b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:17:42
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829462,"nonceStr":"1499829462wx0776","signature":"ce235a2a6680dfce8b9502551783dffffb3b7820","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:06
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829486,"nonceStr":"1499829486wx0776","signature":"61ba0043b1fcccfed180a815098bebb6ff258b51","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:06
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829486,"nonceStr":"1499829486wx0776","signature":"61ba0043b1fcccfed180a815098bebb6ff258b51","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:06
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829486,"nonceStr":"1499829486wx0776","signature":"61ba0043b1fcccfed180a815098bebb6ff258b51","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:07
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829487,"nonceStr":"1499829487wx0776","signature":"aab84dbb789adb35d11beacce21b44ba5ea939f8","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:07
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829487,"nonceStr":"1499829487wx0776","signature":"aab84dbb789adb35d11beacce21b44ba5ea939f8","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:07
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829487,"nonceStr":"1499829487wx0776","signature":"aab84dbb789adb35d11beacce21b44ba5ea939f8","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:07
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829487,"nonceStr":"1499829487wx0776","signature":"aab84dbb789adb35d11beacce21b44ba5ea939f8","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:08
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829488,"nonceStr":"1499829488wx0776","signature":"83df892a4c66f591bf8b12de8b9511911205d276","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:08
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829488,"nonceStr":"1499829488wx0776","signature":"83df892a4c66f591bf8b12de8b9511911205d276","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:08
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829488,"nonceStr":"1499829488wx0776","signature":"83df892a4c66f591bf8b12de8b9511911205d276","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:08
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829488,"nonceStr":"1499829488wx0776","signature":"83df892a4c66f591bf8b12de8b9511911205d276","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:08
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829488,"nonceStr":"1499829488wx0776","signature":"83df892a4c66f591bf8b12de8b9511911205d276","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:09
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829489,"nonceStr":"1499829489wx0776","signature":"a252f9fa64a44b93187f6e41c4a665198f33fd27","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:09
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829489,"nonceStr":"1499829489wx0776","signature":"a252f9fa64a44b93187f6e41c4a665198f33fd27","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:09
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829489,"nonceStr":"1499829489wx0776","signature":"a252f9fa64a44b93187f6e41c4a665198f33fd27","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:09
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829489,"nonceStr":"1499829489wx0776","signature":"a252f9fa64a44b93187f6e41c4a665198f33fd27","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:09
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829489,"nonceStr":"1499829489wx0776","signature":"a252f9fa64a44b93187f6e41c4a665198f33fd27","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:10
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829490,"nonceStr":"1499829490wx0776","signature":"ac8588d136475c24724910360d4ba99e460dff4b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:10
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829490,"nonceStr":"1499829490wx0776","signature":"ac8588d136475c24724910360d4ba99e460dff4b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:18:10
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829490,"nonceStr":"1499829490wx0776","signature":"ac8588d136475c24724910360d4ba99e460dff4b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:16
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829556,"nonceStr":"1499829556wx0776","signature":"d45745b933d6b9f336ec6113c60d4be310ca696a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:17
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829557,"nonceStr":"1499829557wx0776","signature":"b226e3660fc6a655346fc2deccd73a44e0cfa8d2","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:17
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829557,"nonceStr":"1499829557wx0776","signature":"b226e3660fc6a655346fc2deccd73a44e0cfa8d2","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:17
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829557,"nonceStr":"1499829557wx0776","signature":"b226e3660fc6a655346fc2deccd73a44e0cfa8d2","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:17
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829557,"nonceStr":"1499829557wx0776","signature":"b226e3660fc6a655346fc2deccd73a44e0cfa8d2","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:17
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829557,"nonceStr":"1499829557wx0776","signature":"b226e3660fc6a655346fc2deccd73a44e0cfa8d2","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829558,"nonceStr":"1499829558wx0776","signature":"b629666fdece5a7603b63c38509ee45641968d96","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829558,"nonceStr":"1499829558wx0776","signature":"b629666fdece5a7603b63c38509ee45641968d96","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829558,"nonceStr":"1499829558wx0776","signature":"b629666fdece5a7603b63c38509ee45641968d96","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829558,"nonceStr":"1499829558wx0776","signature":"b629666fdece5a7603b63c38509ee45641968d96","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829558,"nonceStr":"1499829558wx0776","signature":"b629666fdece5a7603b63c38509ee45641968d96","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:19
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829559,"nonceStr":"1499829559wx0776","signature":"fa241493c971813ebaf3c45eee57f75625973e7e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:20
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829560,"nonceStr":"1499829560wx0776","signature":"b8ee510491a8b9755ec9b3be979abdad10117701","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:20
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829560,"nonceStr":"1499829560wx0776","signature":"b8ee510491a8b9755ec9b3be979abdad10117701","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:21
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829561,"nonceStr":"1499829561wx0776","signature":"4f142bfefceaaa647a1f38ae92f1f3de339d759b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:22
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829562,"nonceStr":"1499829562wx0776","signature":"2c98598691a67f4488dab2c6561d9bddb0ee8e7c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:22
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829562,"nonceStr":"1499829562wx0776","signature":"2c98598691a67f4488dab2c6561d9bddb0ee8e7c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:22
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829562,"nonceStr":"1499829562wx0776","signature":"2c98598691a67f4488dab2c6561d9bddb0ee8e7c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:23
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829563,"nonceStr":"1499829563wx0776","signature":"b4f21c68f1d34c8ca9f31d960d3fad88edbb9307","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:23
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829563,"nonceStr":"1499829563wx0776","signature":"b4f21c68f1d34c8ca9f31d960d3fad88edbb9307","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:24
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829564,"nonceStr":"1499829564wx0776","signature":"5c87bcb53b01ac4f2a0bd0bbdd6b0726a6d63f5c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:24
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829564,"nonceStr":"1499829564wx0776","signature":"5c87bcb53b01ac4f2a0bd0bbdd6b0726a6d63f5c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:24
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829564,"nonceStr":"1499829564wx0776","signature":"5c87bcb53b01ac4f2a0bd0bbdd6b0726a6d63f5c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:19:24
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829564,"nonceStr":"1499829564wx0776","signature":"5c87bcb53b01ac4f2a0bd0bbdd6b0726a6d63f5c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:22:32
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829752,"nonceStr":"1499829752wx0776","signature":"f5670f43574fe6b918d66081b99bd86d30884b54","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:22:32
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829752,"nonceStr":"1499829752wx0776","signature":"f5670f43574fe6b918d66081b99bd86d30884b54","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:23:36
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829816,"nonceStr":"1499829816wx0776","signature":"5bf87be4a492b99da022fa4c0ebd5c3048170066","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:24:25
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829865,"nonceStr":"1499829865wx0776","signature":"32eba0d7485dcd12022bf6b7e3f7b23861cd75e9","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:26:05
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829965,"nonceStr":"1499829965wx0776","signature":"71b45407a74ca962fc41d94d109cfa6bd2fbf1a0","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:26:06
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499829966,"nonceStr":"1499829966wx0776","signature":"3db6e4f778d29544e8696e0c43310748cf6d800b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:38:24
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499830704,"nonceStr":"1499830704wx0776","signature":"92359eb8824025038cc494b92daec51bd9f86e20","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:47:07
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499831227,"nonceStr":"1499831227wx0776","signature":"18cd757b5b8e6ac67e03f5c9b057cf609c211ee1","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 11:56:13
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499831773,"nonceStr":"1499831773wx0776","signature":"dc642454e39fd8c5c82c2d17ba5bf82bd5a5a917","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"7gVO4B1RDEHykNAgbRqP7r4OSZq6Z7w5ZlOP4SJRt59hwt1-uPSjqLFUM8zgMQsAVXCZdYXrGuYSfZfi-JRopqmVkC6GrcszdVrpYzDbTNqhNKHGI1pobbuJLPUe5TprGMKdAGAUAY","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaK91dHRSMFZAWKi349jy6zrt3APKWxINPZvY4PMzRkvzA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:44
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832104,"nonceStr":"1499832104wx0776","signature":"d84ff88e406cf5482c1cb3b5a474eafa2488a13c","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:48
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832108,"nonceStr":"1499832108wx0776","signature":"cbdf2ab4742ceb7d9392d33d2b86e716e0607a21","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:49
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832109,"nonceStr":"1499832109wx0776","signature":"2678c841a87ae44b07e5ecddfeebafbe8d9cbd65","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832110,"nonceStr":"1499832110wx0776","signature":"a5fe5fc8be67f244965a39d3118bd9685902c119","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832110,"nonceStr":"1499832110wx0776","signature":"a5fe5fc8be67f244965a39d3118bd9685902c119","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832110,"nonceStr":"1499832110wx0776","signature":"a5fe5fc8be67f244965a39d3118bd9685902c119","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832110,"nonceStr":"1499832110wx0776","signature":"a5fe5fc8be67f244965a39d3118bd9685902c119","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832111,"nonceStr":"1499832111wx0776","signature":"12edd0c2d1b95dc529c5557120d8337f68b89c3a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832111,"nonceStr":"1499832111wx0776","signature":"12edd0c2d1b95dc529c5557120d8337f68b89c3a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832111,"nonceStr":"1499832111wx0776","signature":"12edd0c2d1b95dc529c5557120d8337f68b89c3a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832111,"nonceStr":"1499832111wx0776","signature":"12edd0c2d1b95dc529c5557120d8337f68b89c3a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832111,"nonceStr":"1499832111wx0776","signature":"12edd0c2d1b95dc529c5557120d8337f68b89c3a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:52
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832112,"nonceStr":"1499832112wx0776","signature":"efe31027879add50b2f7427ba112ff953fe67713","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:01:52
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832112,"nonceStr":"1499832112wx0776","signature":"efe31027879add50b2f7427ba112ff953fe67713","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:02:02
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832122,"nonceStr":"1499832122wx0776","signature":"dece15f9abc634ffe63f5a5a9bbb34ab00bf4d70","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:02:03
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832123,"nonceStr":"1499832123wx0776","signature":"5528b2db05198ef25ece90d738ab843bf363da1d","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:02:04
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832124,"nonceStr":"1499832124wx0776","signature":"ea0fc771e98f8ec76fcbd3b01c77d7b87350bf88","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 12:02:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499832170,"nonceStr":"1499832170wx0776","signature":"d0c36e2ba1c242029925e422224edcb517819485","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"dTIJUDfBYc6f-Dj1x5hUIcawN-gVyau_xAFk5P73mlcrINUyFgdQZO5GPd51iIewkNiQQXdRUSwBAKZnsfLL93BlnYHNTSTTJC5dsRlmDv_nNGK8eztZUJFXRGWpvRajIWTiAGARFC","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaLO_6sYN1ek3FIvidjV1M9i2qrFzU0PT7bgh2ssPRSzYA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 14:31:23
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499841083,"nonceStr":"1499841083wx0776","signature":"7b4e43c11b7a366a6aaab9e104f7423941c6fd17","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"pMy8w8LLfCuqxHzUKAKio6e5rPJvF_0Kj5T4ixpnKPSgkWagpWtoH_-mmoclcg6kFJnmq6LzI_h8yF1I1WxpFJ2db-1-H2rt-nsSBL-5fgEHJUeAAASUF","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKvwGhAlFpn1aa425qZjI1ybvUciSnAAw9mTOhpW0nXFg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 14:43:49
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499841829,"nonceStr":"1499841829wx0776","signature":"ae69a9f22da94720e23f76e6d46ec0e140225822","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"pMy8w8LLfCuqxHzUKAKio6e5rPJvF_0Kj5T4ixpnKPSgkWagpWtoH_-mmoclcg6kFJnmq6LzI_h8yF1I1WxpFJ2db-1-H2rt-nsSBL-5fgEHJUeAAASUF","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKvwGhAlFpn1aa425qZjI1ybvUciSnAAw9mTOhpW0nXFg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 15:53:26
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499846006,"nonceStr":"1499846006wx0776","signature":"60b0c86f86accce309bd3e706732826d8934d655","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"pMy8w8LLfCuqxHzUKAKio6e5rPJvF_0Kj5T4ixpnKPSgkWagpWtoH_-mmoclcg6kFJnmq6LzI_h8yF1I1WxpFJ2db-1-H2rt-nsSBL-5fgEHJUeAAASUF","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKvwGhAlFpn1aa425qZjI1ybvUciSnAAw9mTOhpW0nXFg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 15:56:39
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499846199,"nonceStr":"1499846199wx0776","signature":"5272a854fedf53b2c77ca52f926ffec1ad99b8e5","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"pMy8w8LLfCuqxHzUKAKio6e5rPJvF_0Kj5T4ixpnKPSgkWagpWtoH_-mmoclcg6kFJnmq6LzI_h8yF1I1WxpFJ2db-1-H2rt-nsSBL-5fgEHJUeAAASUF","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKvwGhAlFpn1aa425qZjI1ybvUciSnAAw9mTOhpW0nXFg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 15:56:43
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499846203,"nonceStr":"1499846203wx0776","signature":"097ea181319cbf8fffe6bc2dfd741b301adab613","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"pMy8w8LLfCuqxHzUKAKio6e5rPJvF_0Kj5T4ixpnKPSgkWagpWtoH_-mmoclcg6kFJnmq6LzI_h8yF1I1WxpFJ2db-1-H2rt-nsSBL-5fgEHJUeAAASUF","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKvwGhAlFpn1aa425qZjI1ybvUciSnAAw9mTOhpW0nXFg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 15:59:27
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499846367,"nonceStr":"1499846367wx0776","signature":"b04d57636cca9b4557c22f99fc8dd0fe2e3b2ddf","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"pMy8w8LLfCuqxHzUKAKio6e5rPJvF_0Kj5T4ixpnKPSgkWagpWtoH_-mmoclcg6kFJnmq6LzI_h8yF1I1WxpFJ2db-1-H2rt-nsSBL-5fgEHJUeAAASUF","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKvwGhAlFpn1aa425qZjI1ybvUciSnAAw9mTOhpW0nXFg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 16:00:52
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499846452,"nonceStr":"1499846452wx0776","signature":"1410d99fb1dddcd70c47252a066463dccb249893","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"pMy8w8LLfCuqxHzUKAKio6e5rPJvF_0Kj5T4ixpnKPSgkWagpWtoH_-mmoclcg6kFJnmq6LzI_h8yF1I1WxpFJ2db-1-H2rt-nsSBL-5fgEHJUeAAASUF","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKvwGhAlFpn1aa425qZjI1ybvUciSnAAw9mTOhpW0nXFg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 16:00:54
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499846454,"nonceStr":"1499846454wx0776","signature":"912f2e0cc1471b208c3f08bc92bcffebc2c62768","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"pMy8w8LLfCuqxHzUKAKio6e5rPJvF_0Kj5T4ixpnKPSgkWagpWtoH_-mmoclcg6kFJnmq6LzI_h8yF1I1WxpFJ2db-1-H2rt-nsSBL-5fgEHJUeAAASUF","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKvwGhAlFpn1aa425qZjI1ybvUciSnAAw9mTOhpW0nXFg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 16:05:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499846750,"nonceStr":"1499846750wx0776","signature":"209857b8cdf761487583238552cdfb4d5deca343","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"pMy8w8LLfCuqxHzUKAKio6e5rPJvF_0Kj5T4ixpnKPSgkWagpWtoH_-mmoclcg6kFJnmq6LzI_h8yF1I1WxpFJ2db-1-H2rt-nsSBL-5fgEHJUeAAASUF","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKvwGhAlFpn1aa425qZjI1ybvUciSnAAw9mTOhpW0nXFg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 16:41:12
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499848872,"nonceStr":"1499848872wx0776","signature":"6544cf0031216a9a29e42f2d88c861b9e6f0426d","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOtntHH1JypCtBNekhWJ4HNfw5TwhOKhRCLqAndXcRYeKUJQXPSMMyI5BiyXI_t410N7PYX5eSKQMBwtYqygrBdgsAFOaAJANSB","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaIOabu_qSuzYCgjSNHpSkclliOQVfvv8hYu-b8FqhBGbA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 16:42:31
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499848951,"nonceStr":"1499848951wx0776","signature":"5a00de7ebc37b5ec52ee5ed988850fe8d0ffc568","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOtntHH1JypCtBNekhWJ4HNfw5TwhOKhRCLqAndXcRYeKUJQXPSMMyI5BiyXI_t410N7PYX5eSKQMBwtYqygrBdgsAFOaAJANSB","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaIOabu_qSuzYCgjSNHpSkclliOQVfvv8hYu-b8FqhBGbA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-12 17:17:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499851071,"nonceStr":"1499851071wx0776","signature":"333aebf173e03b7920eb643f6e77b84d3f746a13","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"a6o7eYs8KjtazUT_uVKOtntHH1JypCtBNekhWJ4HNfw5TwhOKhRCLqAndXcRYeKUJQXPSMMyI5BiyXI_t410N7PYX5eSKQMBwtYqygrBdgsAFOaAJANSB","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaIOabu_qSuzYCgjSNHpSkclliOQVfvv8hYu-b8FqhBGbA","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-13 09:21:27
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499908887,"nonceStr":"1499908887wx0776","signature":"f5608f4697ee0eb07897be51a063fca75ebbcffb","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"ZnRWiZiWtg1PXHPiI95I8DslBwG3Fi3gRyJMmOyJK09bJw4ID0ZjSOeWckPjIoDGsPXyDQX4BECQZKVwtSx3beHKq8Tv6VY1VAPHLg2M9dySoR5VQhSeeXu6G8kCGRQWOJDiAEAGBV","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKkmlzSVlcorkBr_4weCKJkEg04_n_EgvYNNsBOJkCwDg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-13 09:44:52
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499910292,"nonceStr":"1499910292wx0776","signature":"0744a1b99973cd1527982a45bffdea949e4052fa","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"ZnRWiZiWtg1PXHPiI95I8DslBwG3Fi3gRyJMmOyJK09bJw4ID0ZjSOeWckPjIoDGsPXyDQX4BECQZKVwtSx3beHKq8Tv6VY1VAPHLg2M9dySoR5VQhSeeXu6G8kCGRQWOJDiAEAGBV","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKkmlzSVlcorkBr_4weCKJkEg04_n_EgvYNNsBOJkCwDg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-13 09:57:53
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499911073,"nonceStr":"1499911073wx0776","signature":"062a61d4da3c7948a7c3939d3bdf5d7234527b88","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"ZnRWiZiWtg1PXHPiI95I8DslBwG3Fi3gRyJMmOyJK09bJw4ID0ZjSOeWckPjIoDGsPXyDQX4BECQZKVwtSx3beHKq8Tv6VY1VAPHLg2M9dySoR5VQhSeeXu6G8kCGRQWOJDiAEAGBV","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKkmlzSVlcorkBr_4weCKJkEg04_n_EgvYNNsBOJkCwDg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-13 09:58:15
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499911095,"nonceStr":"1499911095wx0776","signature":"3c03b78f9c31fe7d6ad1a59d9310a0fde5d6dc5e","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"ZnRWiZiWtg1PXHPiI95I8DslBwG3Fi3gRyJMmOyJK09bJw4ID0ZjSOeWckPjIoDGsPXyDQX4BECQZKVwtSx3beHKq8Tv6VY1VAPHLg2M9dySoR5VQhSeeXu6G8kCGRQWOJDiAEAGBV","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKkmlzSVlcorkBr_4weCKJkEg04_n_EgvYNNsBOJkCwDg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-13 09:58:33
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499911113,"nonceStr":"1499911113wx0776","signature":"9dd97d6b1e676703e15414f2569fe8269b7b4210","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"ZnRWiZiWtg1PXHPiI95I8DslBwG3Fi3gRyJMmOyJK09bJw4ID0ZjSOeWckPjIoDGsPXyDQX4BECQZKVwtSx3beHKq8Tv6VY1VAPHLg2M9dySoR5VQhSeeXu6G8kCGRQWOJDiAEAGBV","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKkmlzSVlcorkBr_4weCKJkEg04_n_EgvYNNsBOJkCwDg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-13 10:26:34
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499912794,"nonceStr":"1499912794wx0776","signature":"7307ebafe18e1994d9707dd37e8f7885f6102f66","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"ZnRWiZiWtg1PXHPiI95I8DslBwG3Fi3gRyJMmOyJK09bJw4ID0ZjSOeWckPjIoDGsPXyDQX4BECQZKVwtSx3beHKq8Tv6VY1VAPHLg2M9dySoR5VQhSeeXu6G8kCGRQWOJDiAEAGBV","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKkmlzSVlcorkBr_4weCKJkEg04_n_EgvYNNsBOJkCwDg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-13 10:49:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499914190,"nonceStr":"1499914190wx0776","signature":"7037b09c1354bc363dd6010800cd4410c8a656c6","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"ZnRWiZiWtg1PXHPiI95I8DslBwG3Fi3gRyJMmOyJK09bJw4ID0ZjSOeWckPjIoDGsPXyDQX4BECQZKVwtSx3beHKq8Tv6VY1VAPHLg2M9dySoR5VQhSeeXu6G8kCGRQWOJDiAEAGBV","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKkmlzSVlcorkBr_4weCKJkEg04_n_EgvYNNsBOJkCwDg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-13 10:54:52
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499914492,"nonceStr":"1499914492wx0776","signature":"204414d3816bc1c61e886f78a37e42413c322276","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"ZnRWiZiWtg1PXHPiI95I8DslBwG3Fi3gRyJMmOyJK09bJw4ID0ZjSOeWckPjIoDGsPXyDQX4BECQZKVwtSx3beHKq8Tv6VY1VAPHLg2M9dySoR5VQhSeeXu6G8kCGRQWOJDiAEAGBV","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKkmlzSVlcorkBr_4weCKJkEg04_n_EgvYNNsBOJkCwDg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-13 10:56:51
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1499914611,"nonceStr":"1499914611wx0776","signature":"119316fda58f6a8c44d51d95c892b737ddc1e82b","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"ZnRWiZiWtg1PXHPiI95I8DslBwG3Fi3gRyJMmOyJK09bJw4ID0ZjSOeWckPjIoDGsPXyDQX4BECQZKVwtSx3beHKq8Tv6VY1VAPHLg2M9dySoR5VQhSeeXu6G8kCGRQWOJDiAEAGBV","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaKkmlzSVlcorkBr_4weCKJkEg04_n_EgvYNNsBOJkCwDg","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-17 10:15:18
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1500257718,"nonceStr":"1500257718wx0776","signature":"eb50f70397bffe3fc52d10f1e5d22d99edf6597a","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"qJVK52Tg3SP9hHQVQK6m_aeEe60zelYE5yVVAeUTMllikujE8jTYH8tdysgPbaK0Gt45gRs_lmUuYYjttPu_NbyGb2euQkLYyLlFGQ1gpy_h-_H1kDRySg3bR2pu_5khSUCdADABDL","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaITk9w51gs6jlCiRtOb4N_NhGzbXh2LJ9YufFvPkoRI7Q","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-17 10:35:50
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1500258950,"nonceStr":"1500258950wx0776","signature":"9fdfc1c3bc6b6b419ea8c204357ca126014beb22","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"qJVK52Tg3SP9hHQVQK6m_aeEe60zelYE5yVVAeUTMllikujE8jTYH8tdysgPbaK0Gt45gRs_lmUuYYjttPu_NbyGb2euQkLYyLlFGQ1gpy_h-_H1kDRySg3bR2pu_5khSUCdADABDL","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaITk9w51gs6jlCiRtOb4N_NhGzbXh2LJ9YufFvPkoRI7Q","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+
+2017-07-17 10:39:43
+result:{"errcode":0,"errmsg":"","appid":"wx07762020a9b86223","timestamp":1500259183,"nonceStr":"1500259183wx0776","signature":"a181fcbae073baeba98c88584e3e4483da7ae11f","link":"http:\/\/localhost\/MallProject\/io\/?openid=","token":"qJVK52Tg3SP9hHQVQK6m_aeEe60zelYE5yVVAeUTMllikujE8jTYH8tdysgPbaK0Gt45gRs_lmUuYYjttPu_NbyGb2euQkLYyLlFGQ1gpy_h-_H1kDRySg3bR2pu_5khSUCdADABDL","ticket":"kgt8ON7yVITDhtdwci0qeWjVU23OslRNmVk2DcLgFaITk9w51gs6jlCiRtOb4N_NhGzbXh2LJ9YufFvPkoRI7Q","openid":null,"url":"http:\/\/localhost\/MallProject\/io\/?openid="}
+

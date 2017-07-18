@@ -1,0 +1,266 @@
+.db{
+	display: block;
+}
+.price_icon{
+    color: rgb(223,99,13);
+    font-size: 0.23rem;
+    
+}
+.price_num{
+	font-size: 0.27rem;
+    color: rgb(223,99,13);
+}
+/*容器*/
+	.wrap{
+		background-color: white;
+	}
+/*end*/
+
+/*顶部*/
+.con_header{
+	position: fixed;
+	background-color: #F8F8F8;
+    overflow: hidden;
+    width: 100%;
+	max-width: 750px;
+    font-size: 0.4rem;
+    line-height: 0.75rem;
+    border-bottom: 1px solid lightgray;;
+}
+.header_title{
+	overflow: hidden;
+}
+.header_title span{
+	display:inline-block;
+	width: 100%;
+}
+.header_title span:first-child{
+	width: 15%;
+	position: absolute;
+	left: .2rem;
+    top: .2rem;
+}
+
+.header_title .address_control{
+	/*display: inline-block;*/
+    position: absolute;
+    right: 0;
+    width: 15%;
+  
+}
+
+
+/*end*/
+
+/*底部*/
+.con_footer{
+	max-width: 750px;
+	margin: 0 auto;
+	background-color: #F8F8F8;
+	border-top: 1px solid lightgray;
+}
+.all_cost{
+	text-align: center;
+    line-height: 0.85rem;
+    font-size: 0.23rem;
+    margin-right: 0.3rem;
+}
+.all_cost span:first-child{
+    font-size: 0.23rem;
+}
+.all_cost span{
+    /*font-size: 0.27rem;
+    color: rgb(223,99,13);*/
+	
+}
+
+
+.submit_order{
+	width: 34%;
+    text-align: center;
+    line-height: 0.85rem;
+    font-size: 0.25rem;
+    color: white;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#FF8500), to(#FF5A01)); /** Chrome Safari **/
+	background: -moz-linear-gradient(top, #FF8500, #FF5A01); /** FireFox **/
+	background: -o-linear-gradient(top, #FF8500, #FF5A01);  /** Opear **/
+	background: -ms-linear-gradient(#FF8500 0%,#FF5A01 100%);  /** IE9 IE10 **/
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF8500',endColorstr='#FF5A01',grandientType=1); /** IE7 **/
+	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF8500',endColorstr='#FF5A01',grandientType=1); /** IE8 **/
+    
+}
+/*end*/
+
+/*地址*/
+.null{
+	margin-top: 0.85rem;
+	margin-left: 0.8rem;
+	margin-right: 0.5rem;
+	border-radius: .2rem;
+}
+.con_address{
+	margin-top: 0.15rem;
+	margin-left: 0.8rem;
+	margin-right: 0.5rem;
+	border-radius: .2rem;
+	position: relative;
+}
+
+.receiver_info{
+    line-height: 0.5rem;
+	/*margin-left: 0.8rem;*/
+    font-size: 0.28rem;
+}
+.receiver_info span:first-child{
+		
+}
+.receiver_info span:nth-child(2){
+	/*margin-right: 0.5rem;*/
+}
+.receiver_address{
+	
+}
+.coord_img{
+	color: orange;
+	top: 0.4rem;
+	left:-0.65rem;
+    font-size: 0.5rem;
+    position: absolute;
+	
+}
+.address_info{
+    font-size: 0.25rem;
+}
+.tip{
+    color: rgb(255,140,0);
+}
+.envelope_line{
+	background: url(http://localhost/MallProject/io/i/img/xinfeng_xian.png) repeat-x;
+	width: 100%;
+    height: 0.1rem;
+    margin-top: 0.1rem;
+	
+}
+/*end*/
+
+/*商品信息*/
+.grey_line{
+	width: 100%;
+    height: 0.1rem;
+    background-color: #F5F5F5;
+    
+}
+.mb{
+	margin-bottom: 0.6rem;
+	
+}
+.shop_name_info{
+	margin-left: 0.15rem;
+
+}
+.shop_info_title{
+	display: block;
+	margin-top: 0.1rem;
+	overflow: hidden;
+}
+.shop_info_title img{
+	width: 0.6rem;
+	float: left;
+	height: 100%;
+}
+.shop_info_title span{
+	display: block;
+	margin-left: 1rem;
+	line-height: 0.373rem;
+    font-size: 0.2rem;
+}
+.product_info{
+	margin-top: 0.1rem;
+	margin-bottom: 0.1rem;
+    background-color: #F7F7F7;
+    font-size: 0.2rem;
+    overflow: hidden;
+    padding: 0.15rem;
+}
+.product_left_pic{
+	width: 20%;
+}
+.product_left_pic img{
+	width: 1.5rem;
+}
+.product_right_info{
+	width: 75%;
+	/*margin-top: 0.1rem;*/
+	margin-left: 0.2rem;
+}
+.product_detail{
+	color: #C0BCBC;
+}
+.sevenDay{
+	color: red;
+	border: 1px solid red;
+	border-radius:0.05rem ;
+}
+.product_pride{
+	 font-size: 0.27rem;
+    color: rgb(223,99,13);
+}
+.unit_price{
+    font-size: 0.3rem;
+}
+
+/*end*/
+/*购买信息*/
+.buy_num{
+	margin-top: 0.2rem;
+    margin-bottom: 0px;
+    padding-bottom: 0.2rem;
+    border-bottom-width: 1px;
+}
+.buy_choose{
+	/*margin-top: 0.05rem;*/
+}
+.buy_num_text{
+	margin-top: 0;
+	font-weight: normal;
+	width: 95%;
+}
+.buy_num_text input{
+	border: 0px;
+	width: 82%;
+}
+
+/*end*/
+/*商品总结*/
+.summary_info{
+	margin-right: 0.2rem;
+}
+.product_summary{
+	overflow: hidden;
+	padding-bottom: 0.2rem;
+	padding-top: 0.2rem;
+}
+
+/*增加收货地址*/
+.add_form{
+	margin-top: 0.85rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	
+}
+
+/*三级联动*/
+.content-block input {
+	width: 100%;
+	height: 0.6rem;
+	font-size: 18px;
+	border: 1px solid #b72f20;
+	border-radius: 5px;
+	margin:0 1% 2% 0;
+	padding: 5px;
+}
+
+/*选择收货地址*/
+.choose{
+	background-color: #E0E0E0;
+}

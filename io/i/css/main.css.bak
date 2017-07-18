@@ -1,0 +1,610 @@
+/**
+ * Created by Administrator on 2017/7/5.
+ * creator wuchunmao
+ */
+
+* {
+	font-family: "黑体", "微软雅黑", '仿宋', sans-serif;
+}
+
+body,
+p,
+ul,
+li {
+	margin: 0;
+	padding: 0;
+}
+
+body,
+html {
+	background-color: white;
+	width: 100%;
+}
+
+img {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+
+.c {
+	overflow: hidden;
+	clear: both;
+}
+
+.fr {
+	float: right;
+}
+
+.fl {
+	float: left;
+}
+
+.wrap,.footer-wrap{
+	max-width: 750px;
+	margin: 0 auto;
+	background-color: #f0f0f0;
+	position: relative;
+}
+
+.header {
+	width: 100%;
+	background-color: #f0f0f0;
+	overflow: hidden;
+}
+
+.head-nav {
+	float: left;
+	width: 24%;
+	box-sizing: border-box;
+	height: 1.4rem;
+	margin-right: 1%;
+	position: relative;
+}
+
+em {
+	display: block;
+	height: 0;
+	width: 100%;
+	position: absolute;
+	bottom: 0.5rem;
+	border-bottom: 0.06rem solid #c0c0c0;
+	left: 0;
+}
+
+.head-line {
+	border-bottom: 0.06rem solid #f29701;
+}
+
+.head-img {
+	width: 0.25rem;
+	height: 0.25rem;
+	position: absolute;
+	top: 36%;
+	left: 13%;
+}
+
+.nav-word {
+	text-align: center;
+	font-size: 0.3rem;
+	margin-top: 0.4rem;
+}
+
+.head-img-last {
+	left: 6%;
+}
+
+.main {
+	width: 100%;
+}
+
+.relax {
+	height: 3.85rem;
+	width: 100%;
+	margin-bottom: 0.3rem;
+}
+
+.introduce,
+.further {
+	background-color: white;
+	margin-bottom: 0.3rem;
+}
+
+.main-p {
+	font-size: 0.27rem;
+	color: #7b7a7a;
+	text-align: center;
+	line-height: 0.45rem;
+}
+
+.gap-paddingtop {
+	padding-top: 0.25rem;
+}
+
+.introduce-logo {
+	height: 1.3rem;
+	width: 1.3rem;
+	/*margin-bottom: 0.3rem;*/
+	margin: 0.3rem auto;
+}
+
+.further-img {
+	margin-top: 0.62rem;
+}
+
+.footer {
+	font-size: 0.27rem;
+	color: #7b7a7a;
+	text-align: center;
+	line-height: 0.55rem;
+	height: 0.7rem;
+}
+
+
+/*home主页部分结束*/
+
+
+/*contact部分开始*/
+
+.hxgs {
+	height: 1.85rem;
+	width: 100%;
+	background-color: white;
+	padding: 0.38rem 0 0.5rem;
+}
+
+.hxgs-img {
+	height: 1.1rem;
+	width: 19.466666667%;
+	float: left;
+	margin-left: 12.9333333%;
+}
+
+.hxgs-word {
+	float: right;
+	width: 58.8%;
+}
+
+.hxgs-introduce {
+	font-size: 0.2rem;
+	color: #7b7a7a;
+	line-height: 0.3rem;
+	margin-right: 11.2%;
+}
+
+.gap-margin-top {
+	margin-top: 0.3rem;
+}
+
+.yuedong {
+	height: 3.34rem;
+	width: 100%;
+	background-color: white;
+	/*float: left;*/
+	/*margin-left:12.9333333%;*/
+}
+
+.yudong-introduce {
+	font-size: 0.25rem;
+	color: #7b7a7a;
+	line-height: 0.5rem;
+	text-align: center;
+	padding-top: 0.3rem;
+}
+
+.yuedong-imgs {
+	width: 100%;
+	margin-top: 0.3rem;
+}
+
+.jinji-img {
+	height: 1.4rem;
+	width: 18%;
+	float: left;
+	margin-left: 12.9333333%;
+}
+
+.yuedong-img {
+	/*height: 0.86rem;*/
+	width: 35%;
+	float: left;
+	margin-left: 19%;
+	margin-top: 0.4rem;
+}
+
+.further-msg {
+	width: 100%;
+	height: 3.7rem;
+}
+
+.joinus {
+	width: 100%;
+	height: 2rem;
+}
+
+.qcode {
+	background: white;
+	width: 100%;
+	height: 4.8rem;
+}
+
+.qcode-wrap {
+	width: 73.3333333%;
+	margin: 0 auto;
+	padding-top: 0.5rem;
+}
+
+.qcode-pjoin {
+	font-size: 0.3rem;
+	color: black;
+	text-align: center;
+}
+
+.qcode-word {
+	font-size: 0.2rem;
+	color: #7b7a7a;
+	line-height: 0.5rem;
+	text-align: center;
+	padding-top: 0.3rem;
+}
+
+.qcode-contact {
+	width: 100%;
+}
+
+.qcode-img {
+	width: 31%;
+	margin: 0.1rem auto;
+}
+
+@media only screen and (max-width: 330px) {
+	.qcode-word {
+		padding-top: 0;
+	}
+	.hxgs {
+		height: 2rem;
+	}
+}
+
+@media only screen and (max-width: 360px) {
+	.hxgs {
+		height: 2.1rem;
+	}
+}
+
+
+/*contact部分结束*/
+
+
+/*mall商城部分*/
+
+.swiper-container {
+	width: 100%;
+	height: 4.8rem;
+}
+
+.product-introduce {
+	height: 2.65rem;
+	width: 100%;
+	background: white;
+}
+
+.product-name {
+	font-size: 0.25rem;
+	margin: 0 2%;
+	padding-top: 0.1rem;
+}
+
+.product-price {
+	color: red;
+	font-size: 0.3rem;
+}
+
+.product-msg {
+	width: 100%;
+	padding: 0.1rem 4% 0;
+}
+
+.produtct-address {
+	color: #595050;
+	font-size: 0.18rem;
+	padding-bottom: 0.12rem;
+	border-bottom: 2px solid #c0bcbc;
+}
+
+.produtct-origin {
+	float: right;
+}
+
+.product-protect {
+	text-align: center;
+	font-size: 0.22rem;
+	color: #595050;
+	margin-top: 0.25rem;
+}
+
+.product-detail {
+	width: 100%;
+	background: white;
+}
+
+.product-title {
+	height: 0.6rem;
+	font-size: 0.3rem;
+	text-indent: 1em;
+	line-height: 0.6rem;
+	position: relative;
+}
+
+i {
+	/*display: inline-block;*/
+	height: 100%;
+	width: 10px;
+	background: #f29701;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.product-param {
+	background-color: white;
+}
+
+.product-method {
+	margin-bottom: 1.1rem;
+	background-color: white;
+}
+
+.fixed-footer {
+	z-index: 2;
+	width: 100%;
+	color: white;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+
+.purcharse {
+	border-radius: 8px;
+	max-width: 750px;
+	margin: 0 auto;
+	cursor: pointer;
+	position: relative;
+	z-index: 4;
+}
+
+.customer-service {
+	width: 34%;
+	text-align: center;
+	font-size: 0.25rem;
+	float: left;
+	line-height: 0.95rem;
+	background-color: #f29701;
+}
+
+.buy-immediately {
+	width: 66%;
+	text-align: center;
+	font-size: 0.38rem;
+	float: left;
+	line-height: 0.95rem;
+	background-color: #fe0303;
+}
+
+.shadow {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.7);
+	left: 0;
+	top: 0;
+	z-index: 2;
+}
+
+.product-style-wrap {
+	border-radius: 10px 10px 0 0;
+	/*height: 4.5rem;*/
+	width: 100%;
+	background-color: white;
+	color: black;
+}
+
+.product-style {
+	margin: 0 auto;
+	width: 92%;
+	position: relative;
+}
+
+.product-style-head {
+	width: 100%;
+	margin: 0 auto;
+	padding: 5px 0 0.5rem;
+	border-bottom: 3px solid #f4f4f4;
+}
+
+.product-style-img {
+	position: absolute;
+	z-index: 6;
+	top: -0.44rem;
+	left: 4%;
+	overflow: hidden;
+	border-radius: 14px;
+	width: 30%;
+	border: 3px solid #e6e6e6;
+	height: 2.4rem;
+	background-color: white;
+}
+
+.product-style-img-inside {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 98%;
+	height: 98%;
+}
+
+.product-style-img img {
+	/*margin: 3px 3px;*/
+	border: 1px solid #c6c6c8;
+	border-radius: 14px;
+}
+
+.product-style-head-word {
+	font-size: 0.3rem;
+	color: #272727;
+	position: relative;
+	width: 100%;
+	padding-left: 35%;
+}
+
+.close-icon {
+	position: absolute;
+	top: 0.06rem;
+	right: 1%;
+	z-index: 5;
+	font-size: 0.5rem;
+	color: grey;
+}
+
+.product-style-head-price {
+	color: red;
+	font-weight: bold;
+}
+
+.confirm {
+	width: 100%;
+	text-align: center;
+	font-size: 0.38rem;
+	float: left;
+	line-height: 0.95rem;
+	background-color: #fe0303;
+}
+
+.disnone {
+	display: none;
+}
+
+.overside {
+	height: 0.45rem;
+	width: 100%;
+	background-color: #007AFF;
+}
+
+.product-style-section {
+	width: 100%;
+	color: #272727;
+	margin-left: 2%;
+}
+
+.product-color {
+	padding-bottom: 0.1rem;
+	margin-top: 0.15rem;
+	font-size: 0.25rem;
+	font-weight: bold;
+}
+
+.select-style span {
+	float: left;
+	line-height: 0.4rem;
+	font-size: 0.2rem;
+	background-color: #f5f5f5;
+	color: white;
+	font-weight: bold;
+	border-radius: 10% 10% 10% 10% / 36% 36%;
+	margin-right: 3%;
+}
+
+.select-style .select-style-active {
+	background-color: #ff5000;
+}
+
+.product-style-section {
+	padding-bottom: 0.15rem;
+	border-bottom: 3px solid #f4f4f4;
+}
+
+.product-style-footer {
+	margin-bottom: 0.1rem;
+}
+
+.p_number 
+	padding: 10px 0 0 10px;
+	/*width: 480px;*/
+	height: 0.8rem;
+	line-height: 0.8rem;
+	font-size: 0.16rem;
+}
+
+.p_number .f_l {
+	float: left;
+}
+
+.p_number .add_chose {
+	width: 105px;
+}
+
+.p_number .add_chose a {
+	font-size: 0.5rem;
+	float: left;
+	margin: 5px 0 0 0;
+	display: block;
+	width: 15px;
+	height: 15px;
+	line-height: 99em;
+	overflow: hidden;
+	background: url(../img/reduce-add.gif) no-repeat;
+	/*zoom: 1.5;*/
+}
+
+.p_number .add_chose a.reduce {
+	background-position: 0 0;
+}
+
+.p_number .add_chose a.reduce:hover {
+	background-position: 0 -16px;
+}
+
+.p_number .add_chose a.add {
+	background-position: -16px 0;
+}
+
+.p_number .add_chose a.add:hover {
+	background-position: -16px -16px;
+}
+
+.p_number .add_chose .text {
+	float: left;
+	margin: 0 5px;
+	display: inline;
+	border: solid 1px #ccc;
+	padding: 2px 3px 2px 3px;
+	width: 40px;
+	line-height: 18px;
+	font-size: 14px;
+	color: #990000;
+	/* font-weight: 800; */
+	text-align: center;
+}
+
+.p_number .buy {
+	line-height: 0.4rem;
+	font-size: 0.2rem;
+	float
+}
+
+.p_number .buy .total-font {
+	font-family: Arial;
+	font-size: 26px;
+}
+
+.p_number .buy .jifen {
+	margin-left: 20px;
+	color: #ACACAC;
+}
+
+.p_number .buy .jifen b {
+	margin: 0 3px;
+}

@@ -1,0 +1,38 @@
+<label for="">姓名：</label><input type="text" name="username" id="username" value="吴春茂" /><br />
+<label for="">电话：</label><input type="tel" name="usercell" id="usercell" value="13802540914"/><br />
+<label for="">激活码：</label><input type="text" name="freshcode" id="freshcode" value="798532"/><br />
+<label for="">邮箱：</label>  <input type="text" id="email" name="email" value="413866191@qq.com" /> <br />
+<label for="">身份证号：</label><input type="text" id="idno" name="idno" value="440883199510303658"/><br />
+
+<button id="regsub">提交</button><br />
+
+<script type="text/javascript">
+	$("#regsub").click(function(){
+		//各项表单规则认证
+		var regurl = "<{url c="userinfo" a="identify"}>";
+		console.log(regurl);
+		$.ajax({
+			url:regurl,
+			async:false,
+			dataType:'json',
+			data:{
+				'openid':"<{$openid}>",
+				'user_name':$('#username').val(),
+				'user_telephone':$('#usercell').val(),
+				'freshcode':$('#freshcode').val(),
+				'user_email':$('#email').val(),
+				'user_idno':$('#idno').val()
+			},
+			success:function(data){
+				console.log(data);
+			},
+			error:function(){
+				console.log('error');
+			},
+			complete:function(){
+				console.log('complete');
+			}
+		});
+		
+	});
+</script>
